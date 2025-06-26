@@ -1,6 +1,6 @@
 # Hi, I'm Chantelle 👋
 
-I'm a **front-end web developer** passionate about building **clean, accessible UIs** and crafting **engaging user experiences** that feel intuitive and delightful. I believe great design is functional, empathetic, and elegant — and I love bringing it to life with code.
+I'm a **front-end web developer** passionate about building **clean, accessible UIs** and crafting **engaging user experiences** that feel intuitive and delightful. I believe great design is functional, empathetic, and elegant. I love bringing it to life with code.
 
 Currently, I'm:
 - 🌱 Sharpening my front-end skills with real-world projects and challenges
